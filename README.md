@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
@@ -36,4 +35,3 @@ To visualize your solution, please only assign values to the values_dict using t
 
 =======
 # AIND-sudoku-fang
->>>>>>> 02df76dc3e38cee900e4e4974230500b0e563260
