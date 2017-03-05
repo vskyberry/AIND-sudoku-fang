@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
@@ -33,3 +34,6 @@ If not, please see how to download pygame [here](http://www.pygame.org/download.
 
 To visualize your solution, please only assign values to the values_dict using the ```assign_values``` function provided in solution.py
 
+=======
+# AIND-sudoku-fang
+>>>>>>> 02df76dc3e38cee900e4e4974230500b0e563260
